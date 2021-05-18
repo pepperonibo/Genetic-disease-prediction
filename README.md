@@ -1,0 +1,12 @@
+# 项目结构
+
+deep_learning文件夹中包含训练端到端神经网络模型的Jupyter文件，文件夹中代码根据分类问题进行组织。
+
+traditional_ml文件夹中包含使用基于传统机器学习的非端到端模型的jupyter文件，文件夹中代码根据分类问题进行组织。
+
+dataset文件夹中包含训练中所使用数据，该数据由于人脸图片隐私性未上传github，可根据[论文](https://xueshu.baidu.com/usercenter/paper/show?paperid=e7de8d6c7b773e79f12742862f823245)中提供的数据集获取途径以及搜索引擎获取。
+
+normalized_dataset文件夹用于存放经过图像预处理的图像。
+
+backend文件加中包含可视化程序后端部分代码
+
