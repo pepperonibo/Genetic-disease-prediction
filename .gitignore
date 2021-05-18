@@ -1,0 +1,9 @@
+*.jpg
+node_modules/
+.ipynb_checkpoints
+.idea/
+*.png
+logs/
+saved_models/
+__pycache__/
+*.jfif
